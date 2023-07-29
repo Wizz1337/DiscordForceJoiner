@@ -1,8 +1,8 @@
 
 <div align="center"> 
 <h1>Discord Force Joiner</h1>
-**Discord Force Joiner** is a tool made for forcing the victim to join a discord server.
 </div>
+**Discord Force Joiner** is a tool made for forcing the victim to join a discord server.
 
 
 ## How does it work ?
