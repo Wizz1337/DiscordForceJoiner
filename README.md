@@ -1,13 +1,13 @@
 
-<h1 align="center">Discord Force Joiner</h1>
-
-**Discord Force Joiner** is a tool made for forcing (when running) the user to join a discord server.
-
+<div align="center"> 
+<h1>Discord Force Joiner</h1>
+**Discord Force Joiner** is a tool made for forcing the victim to join a discord server.
+</div>
 
 
 ## How does it work ?
 
-Creating a **websocket** connection to a **local** websocket server made by *discord application* and **manipulate** the *Origin* header. Then you can spam the client.
+Creating a connection to a **local websocket server** made by *discord client* and **manipulating** the *Origin* header for bypassing security. Then you can spam the client.
 
 ### Installation
 ```
@@ -16,14 +16,14 @@ Creating a **websocket** connection to a **local** websocket server made by *dis
 
 ###  Usage:
 ```
-	- Change the invite in the code at line 3.
-	- Run the code on your victim machine.
+	- Change the invite code in the script at line 3.
+	- Run the code on the victim machine.
 ```
 
 ##  Credits:
 <div align="center"> 
-<img style = "border-radius: 20px;" src="https://cdn.discordapp.com/avatars/757285135807676477/832dc0851cd839109afff4a6bb699831.webp">
- <p style="font-size: 20px;"> Xin1337 / Wizz1337</p>
+<img src="https://cdn.discordapp.com/avatars/757285135807676477/832dc0851cd839109afff4a6bb699831.webp">
+ <p> Xin1337 / Wizz1337</p>
 BTC : bc1q7qetejfa3q8ukkqcn3ct9fctcah34q2rlvvnl4
  </div>
 
